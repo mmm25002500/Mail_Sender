@@ -46,3 +46,4 @@ else:
     else:
         print("郵件傳送失敗!")
 smtp.quit()
+ 
